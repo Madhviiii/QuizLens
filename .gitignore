@@ -1,0 +1,17 @@
+# 📁 Ignore API keys & secrets
+.env
+
+# 🧠 Python cache files
+__pycache__/
+*.py[cod]
+
+# 🧪 VS Code & system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+
+
+# 📂 Ignore virtual environments (if any)
+venv/
+env/
